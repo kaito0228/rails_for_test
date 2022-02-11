@@ -107,12 +107,12 @@ GEM
     mongo (2.10.2)
       bson (>= 4.4.2, < 5.0.0)
     msgpack (1.2.10)
-    nio4r (2.5.2)
+    nio4r (2.5.8)
     nokogiri (1.10.4)
       mini_portile2 (~> 2.4.0)
     pg (1.1.4)
     public_suffix (4.0.1)
-    puma (4.2.1)
+    puma (4.3.11)
       nio4r (~> 2.0)
     rack (2.2.2)
     rack-proxy (0.6.5)
@@ -211,7 +211,7 @@ DEPENDENCIES
   listen (>= 3.0.5, < 3.3)
   mongo
   pg (>= 0.18, < 2.0)
-  puma (~> 4.2)
+  puma (~> 4.3)
   rails (~> 6.0.0)
   sass-rails (~> 6.0)
   selenium-webdriver
